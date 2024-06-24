@@ -1,13 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@import url(//db.onlinewebfonts.com/c/98b78079f5ee4295c40260785b4e4fbf?family=Cera+Pro);
-
-@font-face {font-family: "Cera Pro Bold"; src: url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.eot"); src: url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.woff") format("woff"), url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/98b78079f5ee4295c40260785b4e4fbf.svg#Cera Pro") format("svg"); }
-
-
-@import url(//db.onlinewebfonts.com/c/2f407d03c34861737fe4b85ab35eb729?family=Cera+Pro);
-
-@font-face {font-family: "Cera Pro"; src: url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.eot"); src: url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.woff") format("woff"), url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/2f407d03c34861737fe4b85ab35eb729.svg#Cera Pro") format("svg"); }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -16,7 +8,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Cera Pro Bold", sans-serif;
+  font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
 }
